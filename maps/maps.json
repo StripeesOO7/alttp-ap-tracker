@@ -1,68 +1,104 @@
 [
     {
-        "name": "hoennmap",
+        "name": "Lightworld",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/hoennmap.png"
+        "img": "images/maps/lttp_lightworld.png"
     },
     {
-        "name": "granitecave",
+        "name": "Darkworld",
+        "location_size": 3,
+        "location_border_thickness": 1,
+        "img": "images/maps/lttp_darkworld.png"
+    },
+    {
+        "name": "HC",
         "location_size": 24,
         "location_border_thickness": 3,
-        "img": "images/maps/granitecave.png"
+        "img": "images/dungeon/HC.png"
     },
     {
-        "name": "meteorfalls",
+        "name": "CE",
+        "location_size": 24,
+        "location_border_thickness": 3,
+        "img": "images/dungeon/HC_escape.png"
+    },
+    {
+        "name": "EP",
         "location_size": 25,
         "location_border_thickness": 3,
-        "img": "images/maps/meteorfalls.png"
+        "img": "images/dungeon/EP.png"
     },
     {
-        "name": "magmahideout",
-        "location_size": 35,
+        "name": "DP",
+        "location_size": 6,
         "location_border_thickness": 5,
-        "img": "images/maps/magmahideout.png"
+        "img": "images/dungeon/DP.png"
     },
     {
-        "name": "abandonedship",
+        "name": "ToH",
         "location_size": 12,
         "location_border_thickness": 2,
-        "img": "images/maps/abandonedship.png"
+        "img": "images/dungeon/ToH.png"
     },
     {
-        "name": "safari",
+        "name": "AT",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/dungeon/AT.png"
+    },
+    {
+        "name": "PoD",
         "location_size": 40,
         "location_border_thickness": 6,
-        "img": "images/maps/safari.png"
+        "img": "images/dungeon/PoD.png"
     },
     {
-        "name": "mtpyre_int",
+        "name": "SP",
         "location_size": 15,
         "location_border_thickness": 2,
-        "img": "images/maps/mtpyre_int.png"
+        "img": "images/dungeon/SP.png"
     },
     {
-        "name": "mtpyre_ext",
+        "name": "TT",
         "location_size": 25,
         "location_border_thickness": 3,
-        "img": "images/maps/mtpyre_ext.png"
+        "img": "images/dungeon/TT.png"
     },
     {
-        "name": "aquahideout",
+        "name": "SW",
         "location_size": 20,
         "location_border_thickness": 3,
-        "img": "images/maps/aquahideout.png"
+        "img": "images/dungeon/SW.png"
     },
     {
-        "name": "shoalcave",
+        "name": "MM",
         "location_size": 30,
         "location_border_thickness": 4,
-        "img": "images/maps/shoalcave.png"
+        "img": "images/dungeon/MM.png"
     },
     {
-        "name": "victoryroad",
+        "name": "IP",
         "location_size": 26,
         "location_border_thickness": 3,
-        "img": "images/maps/victoryroad.png"
+        "img": "images/dungeon/IP.png"
+    },
+    {
+        "name": "TR",
+        "location_size": 26,
+        "location_border_thickness": 3,
+        "img": "images/dungeon/TR.png"
+    },
+    {
+        "name": "GT_Bottom",
+        "location_size": 26,
+        "location_border_thickness": 3,
+        "img": "images/dungeon/GT_Bottom.png"
+    },
+    {
+        "name": "GT_Top",
+        "location_size": 26,
+        "location_border_thickness": 3,
+        "img": "images/dungeon/GT_Top.png"
     }
 ]

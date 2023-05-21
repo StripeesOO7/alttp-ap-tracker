@@ -7,97 +7,143 @@
                 "content": {
                     "type": "map",
                     "maps": [
-                        "hoennmap"
+                        "Lightworld",
+                        "Darkworld"
                     ]
                 }
             },
             {
-                "title": "Granite Cave",
+                "title": "Hyrule Castle",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "granitecave"
+                        "HC"
                     ]
                 }
             },
             {
-                "title": "Meteor Falls",
+                "title": "Castle Escape",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "meteorfalls"
+                        "CE"
                     ]
                 }
             },
             {
-                "title": "Magma Hideout",
+                "title": "Eastern Palace",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "magmahideout"
+                        "EP"
                     ]
                 }
             },
             {
-                "title": "Abandoned Ship",
+                "title": "Desert Palace",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "abandonedship"
+                        "DP"
                     ]
                 }
             },
             {
-                "title": "Safari Zone",
+                "title": "Tower of Hera",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "safari"
+                        "ToH"
                     ]
                 }
             },
             {
-                "title": "Mt Pyre (Int.)",
+                "title": "Agahnim's Tower",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "mtpyre_int"
+                        "AT"
                     ]
                 }
             },
             {
-                "title": "Mt Pyre (Ext.)",
+                "title": "Palace of Darkness",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "mtpyre_ext"
+                        "PoD"
                     ]
                 }
             },
             {
-                "title": "Aqua Hideout",
+                "title": "Swamp Palace",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "aquahideout"
+                        "SP"
                     ]
                 }
             },
             {
-                "title": "Shoal Cave",
+                "title": "Thief's Town",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "shoalcave"
+                        "TT"
                     ]
                 }
             },
             {
-                "title": "Victory Road",
+                "title": "Skull Woods",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "victoryroad"
+                        "SW"
+                    ]
+                }
+            },
+            {
+                "title": "Misery Mire",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "MM"
+                    ]
+                }
+            },
+            {
+                "title": "Ice Palace",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "IP"
+                    ]
+                }
+            },
+            {
+                "title": "Turtle Rock",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "TR"
+                    ]
+                }
+            },
+            {
+                "title": "Ganon's Tower - Bottom",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "GT_Bottom"
+                    ]
+                }
+            },
+            {
+                "title": "Ganon's Tower - Top",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "GT_Top"
                     ]
                 }
             }
